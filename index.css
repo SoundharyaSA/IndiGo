@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(26,55,115);
+}
+ .navbar{
+    height: 30%;
+    width: 100%;
+   color: white;
+   
+}
+.navbar div{
+    width: 30%;
+}
+p{
+    margin-left: 10px;
+    font-size:x-large;
+}
+.navbar .mainul{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+
